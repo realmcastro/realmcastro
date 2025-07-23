@@ -18,15 +18,10 @@ const matheus = {
     stack: {
         frontend: ["Angular 20", "React", "TypeScript"],
         backend: ["Node.js", "Laravel", "Python"],
-        ai: ["OpenAI GPT-4", "Computer Vision", "N8N"],
+        ai: ["OpenAI GPT-4", "Computer Vision", "N8N", "PyTorch", "YOLO"],
         cloud: ["AWS", "Oracle Cloud", "Docker"]
     },
     
-    conquistas: [
-        "⚡ 55% melhoria em performance de dashboards",
-        "🚀 40% redução no tempo de análise de KPIs", 
-        "🤖 50% redução no tempo de atendimento via IA"
-    ]
 };
 ```
 
