@@ -1,67 +1,136 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, eu sou Matheus Castro!
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║    ███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗   ██╗███████╗                ║
+║    ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║   ██║██╔════╝                ║
+║    ██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ██║███████╗                ║
+║    ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║                ║
+║    ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║                ║
+║    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝                ║
+║                                                                                  ║
+║                          C A S T R O                                            ║
+║                                                                                  ║
+║   ┌─────────────────────────────────────────────────────────────────────────┐   ║
+║   │  ◉ FULL-STACK DEVELOPER                                                │   ║
+║   │  ◉ AI & COMPUTER VISION ENGINEER                                       │   ║
+║   │  ◉ FORTALEZA, CEARÁ - BRASIL                                           │   ║
+║   └─────────────────────────────────────────────────────────────────────────┘   ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IA+%26+Computer+Vision;Fortaleza%2C+Ceará+-+Brasil" alt="Typing SVG" />
-</div>
+## `~$ whoami`
 
----
-
-## 🚀 Sobre Mim
-
-```javascript
-const matheus = {
-    cargo: "Full-Stack Developer Pleno I",
-    foco: "IA & Visão Computacional",
-    experiência: "3+ anos",
-    localização: "Fortaleza, CE 🇧🇷",
-    
-    stack: {
-        frontend: ["Angular 20", "React", "TypeScript"],
-        backend: ["Node.js", "Laravel", "Python"],
-        ai: ["OpenAI GPT-4", "Computer Vision", "N8N", "PyTorch", "YOLO"],
-        cloud: ["AWS", "Oracle Cloud", "Docker"]
-    },
-    
-};
+```yaml
+Developer:
+  name: "Matheus Castro"
+  role: "Full-Stack Developer Pleno I"
+  location: "Fortaleza, CE"
+  experience: "3+ anos"
+  status: "Transformando café em código"
+  
+Current_Mission:
+  - "Building intelligent systems"
+  - "Exploring AI frontiers" 
+  - "Creating digital experiences"
 ```
 
 ---
 
-## 🛠️ Tecnologias
+## `~$ cat skills.json`
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
+```json
+{
+  "frontend": {
+    "frameworks": ["Angular 20", "React"],
+    "languages": ["TypeScript", "JavaScript"],
+    "styling": ["CSS3", "SCSS", "Tailwind"]
+  },
+  "backend": {
+    "runtime": ["Node.js"],
+    "frameworks": ["Laravel", "Express"],
+    "languages": ["Python", "PHP", "JavaScript"]
+  },
+  "ai_ml": {
+    "llm": ["OpenAI GPT-4", "Custom Models"],
+    "vision": ["YOLO", "OpenCV", "Computer Vision"],
+    "frameworks": ["PyTorch", "TensorFlow"],
+    "automation": ["N8N", "Workflows"]
+  },
+  "cloud_devops": {
+    "providers": ["AWS", "Oracle Cloud"],
+    "containers": ["Docker", "Kubernetes"],
+    "ci_cd": ["GitHub Actions", "Jenkins"]
+  }
+}
+```
 
 ---
 
-## 📊 GitHub Stats
+## `~$ git log --oneline --graph`
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realmcastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmcastro&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+```
+* 2024 ◯ Launched AI-powered applications
+* 2023 ◯ Mastered Computer Vision workflows  
+* 2022 ◯ Deep dive into Full-Stack development
+* 2021 ◯ Started professional coding journey
+```
 
 ---
 
-## 📫 Contato
+## `~$ ps aux | grep projects`
+
+```
+PROCESS                    STATUS    DESCRIPTION
+ai-vision-system.py        RUNNING   Computer vision automation
+web-apps.js               RUNNING   Modern React/Angular SPAs
+api-services.py           RUNNING   Scalable backend services
+ml-models.torch           RUNNING   Custom AI implementations
+```
+
+---
+
+## `~$ curl -X GET /connect`
+
+```bash
+# Professional Networks
+linkedin: https://linkedin.com/in/realmcastro
+portfolio: https://realmcastro.dev
+email: realmcastro.dev@gmail.com
+whatsapp: +55 85 98160-8052
+
+# Response: 200 OK
+# Message: "Always open to new opportunities and collaborations"
+```
+
+---
+
+## `~$ system-stats`
+
+```
+┌─[ GITHUB METRICS ]────────────────────────────────────────┐
+│                                                           │
+│  📊 Commits: Consistently building                       │
+│  🔥 Streak: Daily coding habit                          │
+│  ⭐ Repos: Quality over quantity                         │
+│  🌱 Growth: Always learning                             │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+[matheus@dev ~]$ echo "Obrigado pela visita! 🚀"
+Obrigado pela visita! 🚀
+
+[matheus@dev ~]$ uptime
+Building the future, one commit at a time.
+```
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/realmcastro)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://realmcastro.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realmcastro.dev@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585981608052)
-
-<img src="https://komarev.com/ghpvc/?username=realmcastro&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile Views" />
+![Visitor Count](https://komarev.com/ghpvc/?username=realmcastro&color=00ff41&style=flat-square&label=VISITORS)
 
 </div>
